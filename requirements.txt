@@ -1,0 +1,3 @@
+holehe
+fastapi
+uvicorn[standard]
